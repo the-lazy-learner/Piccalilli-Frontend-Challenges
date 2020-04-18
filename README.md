@@ -1,4 +1,4 @@
-# piccalilli-frontend-challenges
+# Front end Challenges
 My attempted solutions for challenges at https://piccalil.li/
 
 These finished pages can be seen [here](https://the-lazy-learner.github.io/piccalilli-frontend-challenges/).
